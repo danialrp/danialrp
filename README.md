@@ -11,9 +11,9 @@
 
 ---
 
-10+ years building production-grade backend systems — from multi-tenant CRMs and ERP integrations to real-time cryptocurrency exchange platforms. I write Laravel for enterprise SaaS, Go for high-throughput data pipelines, and care deeply about service architecture, clean domain boundaries, and systems that scale.
+Since 2015, building production-grade backend systems — from multi-tenant CRMs and ERP integrations to real-time cryptocurrency exchange platforms. I write Laravel for enterprise SaaS, Go for high-throughput data pipelines, and care deeply about service architecture, clean domain boundaries, and systems that scale.
 
-Currently based in UAE. Open to **remote senior backend roles** with European companies.
+Currently based in UAE. Open to remote senior backend roles with European companies.
 
 ---
 
