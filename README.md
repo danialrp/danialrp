@@ -5,7 +5,7 @@
 
 [![Website](https://img.shields.io/badge/danialrp.com-111827?style=for-the-badge&logo=safari&logoColor=white)](https://danialrp.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/danialrp)
-[![Email](https://img.shields.io/badge/danialrp@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danialrp@gmail.com)
+[![Email](https://img.shields.io/badge/danialrp@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:me@danialrp.com)
 
 </div>
 
