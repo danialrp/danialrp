@@ -3,7 +3,7 @@
 # Danial Panah
 ### Senior Backend Engineer · PHP/Laravel · Go · Python
 
-[![Website](https://img.shields.io/badge/danialrp.com-111827?style=for-the-badge&logo=safari&logoColor=white)](https://danialrp.com)
+[![Website](https://img.shields.io/badge/danialrp.com-1a6b4a?style=for-the-badge&logo=safari&logoColor=white)](https://danialrp.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/danialrp)
 [![Email](https://img.shields.io/badge/me@danialrp.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:me@danialrp.com)
 
