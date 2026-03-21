@@ -63,7 +63,7 @@ High-throughput event-driven microservices platform for real-time cryptocurrency
 ### [IRBTC](https://danialrp.com/projects) — Cryptocurrency Exchange Platform
 > **Laravel 10 · PHP 8.2 · PostgreSQL · Redis · AWS S3**
 
-Production-grade crypto exchange backend for cryptocurrenies markets. 90+ services, 28 contract-based interfaces, async Horizon queues for commission calculations and deposit/withdrawal workflows. Integrations: Cryptocurrency market data providers, KYC biometric verification, international fiat payment gateways.
+Production-grade crypto exchange backend handling fiat/crypto trading, identity verification, and financial transaction processing. 90+ services, 28 contract-based interfaces, async Horizon queues for commission calculations and deposit/withdrawal workflows. Integrations: cryptocurrency market data providers, KYC biometric verification, and international fiat payment gateways.
 
 ---
 
