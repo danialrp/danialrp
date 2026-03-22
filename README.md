@@ -106,10 +106,10 @@ Large-scale centralised dentistry management platform covering appointments, dia
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats-gules-tau-46.vercel.app/api?username=danialrp&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&count_private=true" height="165" />
   &nbsp;
-  <img src="https://github-readme-stats-gules-tau-46.vercel.app/api/top-langs/?username=danialrp&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&count_private=true" height="165" />
+  <img src="https://github-readme-stats-gules-tau-46.vercel.app/api/top-langs/?username=danialrp&count_private=true&layout=compact&hide=Blade,HTML,CSS,Lua&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff" height="165" />
 </div>
 
 ---
